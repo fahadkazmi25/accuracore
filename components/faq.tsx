@@ -2,7 +2,6 @@
 
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion"
 import { cn } from "@/lib/utils"
-import { ChevronDown } from "lucide-react"
 
 const faqs = [
   {

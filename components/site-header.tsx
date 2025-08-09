@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet"
-import { ChevronDown, KeyRound, ArrowRight, Menu, ChevronRight } from "lucide-react"
+import { ChevronDown, KeyRound, Menu, ChevronRight } from "lucide-react"
 
 type NavItem = { label: string; items?: { label: string; href: string }[] }
 
